@@ -1,2 +1,3 @@
-# Estres_y_estudios_clinicos
-Analizando la base de datos de un laboratorio clínico particular encontré  el mes  en el que probablemente más se estresan las personas pero también descubrí  un comportamiento atípico  en la  la tendencia de la demanda de estudios clínicos  en ese mismo mes.
+<h1><strong>Estr&eacute;s y estudios cl&iacute;nicos</strong></h1>
+<p>Analizando la base de datos de un laboratorio cl&iacute;nico particular pude detectar el mes en el que probablemente m&aacute;s se estresan las personas, basando esta hipotesis en la demanda de estudios cl&iacute;nicos durante el a&ntilde;o y tambi&eacute;n descubr&iacute; un patron de comportamiento&nbsp; at&iacute;pico que se repite cada a&ntilde;o en la la tendencia de la demanda del mes que tiene m&aacute;s solicitudes de estudios cl&iacute;nicos.</p>
+<p><a href="https://medium.com/@jesusandresbaez/analizando-el-mes-m&aacute;s-estresante-del-a&ntilde;o-y-descubriendo-el-efecto-viva-m&eacute;xico-1644e47c21b8" title="Estr&eacute;s y estudios cl&iacute;nicos">Para leer el articulo dale click aqu&iacute;.</a></p>
